@@ -3,11 +3,11 @@
 This repo contains a simple service with the following specifications.
 
 Specifications:   
-[x] Add Note
-[x] Get Note by ID
-[x] Get All Notes
-[x] Delete Note by ID
-[ ] Update Note (TODO)
+- [x] Add Note
+- [x] Get Note by ID
+- [x] Get All Notes
+- [x] Delete Note by ID
+- [ ] Update Note (TODO)
 
 ---
 
